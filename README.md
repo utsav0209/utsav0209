@@ -18,7 +18,7 @@ Ex-Core Team Member & Facilitator of AI & Machine Learning team at <a href="http
 - Web Development
 - Forts and Factorio
 
-### Ongoing Projects
+### Current Interests
 
 - Taking deep dive into Elixir
 - Newbie to Open Source Contributions, currently working on [Micronaut Projects](http://github.com/micronaut-projects/) and [Papercusp](https://github.com/papercups-io/)
