@@ -2,7 +2,7 @@
 
 <p>
 <em>Software Craftsperson at <a href="https://www.incubyte.co/">Incubyte Datatech Pvt. Ltd.</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
-<em>Studied at <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<em>Graduated from <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 Ex-Core Team Member & Facilitator of AI & Machine Learning team at <a href="https://www.dscddu.com/">DSC DDU</a> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"></br>
 </p>
 
@@ -22,7 +22,7 @@ Ex-Core Team Member & Facilitator of AI & Machine Learning team at <a href="http
 
 - Taking deep dive into Elixir
 - Newbie to Open Source Contributions, currently working on [Micronaut Projects](http://github.com/micronaut-projects/) and [Papercusp](https://github.com/papercups-io/)
-- Working on some personal Web-Dev Proejects
+- Working on some personal Web-Dev Projects
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats
 
