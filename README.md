@@ -8,7 +8,7 @@ Ex-Core Team Member & Facilitator of AI & Machine Learning team at <a href="http
 
 [![LinkedIn: utsav](https://img.shields.io/badge/-utsav-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-varia/)
 [![LinkedIn: utsav](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FuTsav0209)](https://twitter.com/uTsav0209)
-[![LeetCode: utsav](https://img.shields.io/badge/-LeetCode-white?style=flat-square&logo=LeetCode&logoColor=orange?style=social)](https://leetcode.com/utsav0209/)
+[![LeetCode: utsav](https://img.shields.io/badge/-LeetCode-grey?style=flat-square&logo=LeetCode&logoColor=orange?style=social)](https://leetcode.com/utsav0209/)
 [![GitHub utsav](https://img.shields.io/github/followers/utsav0209?label=follow&style=social)](https://github.com/utsav0209/)
 [![Instagram @utsav0209](https://img.shields.io/badge/@utsaaaaav-833AB4?style=flat&logo=instagram)](https://www.instagram.com/utsaaaaav/)
 
