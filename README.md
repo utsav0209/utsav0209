@@ -14,7 +14,7 @@ Ex-Core Team Member & Facilitator of AI & Machine Learning team at <a href="http
 
 ### Skills
 
-- Java, Elxiir, Javscript and other languages
+- Java, Elxiir, Javscript, C++
 - Web Development
 - Forts and Factorio
 
